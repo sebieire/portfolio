@@ -1,0 +1,9 @@
+# Core dependencies for TSP Genetic Algorithm Solver
+# Python 3.7+ required (tested with Python 3.12)
+
+# This project uses only Python standard library modules:
+# - random
+# - sys
+# - math
+
+# No external dependencies required!
