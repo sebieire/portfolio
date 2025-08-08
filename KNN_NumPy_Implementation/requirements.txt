@@ -1,0 +1,8 @@
+# k-NN Machine Learning Implementation
+# Python 3.7+ required (tested with Python 3.12)
+
+numpy>=1.19.0
+matplotlib>=3.0.0
+
+# Note: This is a pure NumPy implementation without high-level ML libraries
+# No scikit-learn or similar libraries are used - all algorithms implemented from scratch

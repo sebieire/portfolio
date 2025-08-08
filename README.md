@@ -13,6 +13,15 @@ An implementation of genetic algorithms for solving the Traveling Salesman Probl
 - **Key Concepts**: Genetic Algorithms, Combinatorial Optimization, Metaheuristics
 - **Performance**: Achieves ~16.8 fitness score on 128-city benchmark problems
 
+### 🤖 [k-Nearest Neighbors NumPy Implementation](./KNN_NumPy_Implementation)
+**Machine Learning | 2019**
+
+Pure NumPy implementation of k-NN for classification and regression, featuring vectorized distance calculations (no loops!), distance-weighted voting, and advanced feature selection that achieved 95% R² score.
+
+- **Technologies**: Python (NumPy, Matplotlib)
+- **Key Concepts**: k-NN, Distance Metrics, Feature Selection, Vectorization
+- **Performance**: 93% classification accuracy, 95% regression R² with feature selection
+
 ---
 
 *More projects coming soon...*
@@ -20,9 +29,9 @@ An implementation of genetic algorithms for solving the Traveling Salesman Probl
 ## Technologies & Skills
 
 - **Languages**: Python
-- **Algorithms**: Genetic Algorithms, Metaheuristic Optimization
-- **Problem Domains**: Combinatorial Optimization, NP-Hard Problems
-- **Development**: Algorithm Design, Performance Analysis, Statistical Evaluation
+- **Algorithms**: Genetic Algorithms, k-NN, Metaheuristic Optimization, Machine Learning
+- **Problem Domains**: Combinatorial Optimization, NP-Hard Problems, Classification, Regression
+- **Development**: Algorithm Design, Performance Analysis, Statistical Evaluation, Vectorization
 
 ## About
 
