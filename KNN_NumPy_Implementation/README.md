@@ -138,7 +138,7 @@ The code includes extensive experiment capabilities:
 
 ## Author
 
-[Sebastian Eire](https://github.com/sebieire/)
+[sebieire](https://github.com/sebieire/)
 
 ## License
 

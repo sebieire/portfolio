@@ -119,7 +119,7 @@ This implementation was developed as an exploration of metaheuristic optimizatio
 
 ## Author
 
-[Sebastian Eire](https://github.com/sebieire/)
+[sebieire](https://github.com/sebieire/)
 
 ## License
 

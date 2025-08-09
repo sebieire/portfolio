@@ -168,7 +168,7 @@ This project was developed as part of an AI course assignment in 2019, demonstra
 
 ## Author
 
-[Sebastian Eire](https://github.com/sebieire/)
+[sebieire](https://github.com/sebieire/)
 
 ## License
 
