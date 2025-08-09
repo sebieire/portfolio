@@ -22,6 +22,15 @@ Pure NumPy implementation of k-NN for classification and regression, featuring v
 - **Key Concepts**: k-NN, Distance Metrics, Feature Selection, Vectorization
 - **Performance**: 93% classification accuracy, 95% regression R² with feature selection
 
+### 🎯 [AI Agents Hunting Simulation](./AI_Agents_Hunting_Simulation)
+**Artificial Intelligence | 2019**
+
+Comprehensive implementation of intelligent agents in a 2D grid world, featuring reflex/model-based/utility-based agents, search algorithms (BFS, DFS, DLS), and knowledge-based reasoning with forward chaining for goal inference.
+
+- **Technologies**: Python (NumPy, Matplotlib, Seaborn)
+- **Key Concepts**: Agent Architectures, Search Algorithms, Knowledge Representation, Forward Chaining
+- **Performance**: Utility agent achieves 100% survival rate with 70+ performance scores
+
 ---
 
 *More projects coming soon...*
