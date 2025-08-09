@@ -168,7 +168,11 @@ This project was developed as part of an AI course assignment in 2019, demonstra
 
 ## Author
 
-Developed for COMP9016 - Artificial Intelligence course assignment
+[Sebastian Eire](https://github.com/sebieire/)
+
+## License
+
+MIT License
 
 ---
 

@@ -136,6 +136,10 @@ The code includes extensive experiment capabilities:
 - Feature importance analysis
 - Performance visualization
 
+## Author
+
+[Sebastian Eire](https://github.com/sebieire/)
+
 ## License
 
 MIT License - See LICENSE file for details

@@ -117,6 +117,10 @@ python tsp_solver.py sample_data.tsp
 
 This implementation was developed as an exploration of metaheuristic optimization techniques, specifically focusing on the effectiveness of different GA operators for combinatorial optimization problems.
 
+## Author
+
+[Sebastian Eire](https://github.com/sebieire/)
+
 ## License
 
 MIT License - See LICENSE file for details
