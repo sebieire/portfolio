@@ -31,6 +31,15 @@ Comprehensive implementation of intelligent agents in a 2D grid world, featuring
 - **Key Concepts**: Agent Architectures, Search Algorithms, Knowledge Representation, Forward Chaining
 - **Performance**: Utility agent achieves 100% survival rate with 70+ performance scores
 
+### 🔍 [SAT Solvers with Local Search](./SAT_Solvers_LocalSearch)
+**Metaheuristic Optimization | 2019**
+
+Advanced implementations of GWSAT and WalkSAT algorithms for solving Boolean satisfiability problems, featuring Tabu search enhancement, stochastic local search strategies, and comprehensive performance analytics with visualization.
+
+- **Technologies**: Python (Matplotlib)
+- **Key Concepts**: SAT Solving, Local Search, Tabu Search, Stochastic Optimization
+- **Performance**: 100% success rate on uf20 instances, scalable to larger problems
+
 ---
 
 *More projects coming soon...*
