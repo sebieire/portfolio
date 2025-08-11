@@ -4,6 +4,15 @@ A collection of Python projects demonstrating various algorithms, optimization t
 
 ## Projects
 
+### 🍄 [Bayesian Networks and ML Mushroom Classifier](./Bayesian_ML_MushroomClassifier)
+**Knowledge Representation | 2020**
+
+Comprehensive implementation of Bayesian Networks for health risk analysis and custom Naive Bayes classifier for mushroom edibility prediction. Features probabilistic reasoning, conditional probability tables, and achieves 99.7% classification accuracy.
+
+- **Technologies**: Python (Pandas, NumPy, Matplotlib, Jupyter)
+- **Key Concepts**: Bayesian Networks, Naive Bayes, Probabilistic Inference, Knowledge Representation
+- **Performance**: 99.7% mushroom classification accuracy, accurate RLE predictions
+
 ### 🧬 [TSP Genetic Algorithm Solver](./TSP_Genetic_Algorithm_Solver)
 **Metaheuristic Optimization | 2019**
 
