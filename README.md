@@ -22,6 +22,15 @@ Pure NumPy implementation of k-NN for classification and regression, featuring v
 - **Key Concepts**: k-NN, Distance Metrics, Feature Selection, Vectorization
 - **Performance**: 93% classification accuracy, 95% regression R² with feature selection
 
+### 🔐 [Terrorism ML Prediction](./Terrorism_ML_Prediction)
+**Machine Learning | 2019**
+
+Comprehensive machine learning pipeline for predicting terrorist group attribution using the Global Terrorism Database. Features advanced preprocessing with outlier detection (univariate/DBSCAN), multiple classification algorithms, and hyperparameter optimization achieving near-perfect accuracy.
+
+- **Technologies**: Python (Scikit-learn, Pandas, NumPy, Imbalanced-learn)
+- **Key Concepts**: Classification, Feature Engineering, Outlier Detection, SMOTE, GridSearchCV
+- **Performance**: 99-100% accuracy for top groups, 95% for 15-class problem
+
 ### 🎯 [AI Agents Hunting Simulation](./AI_Agents_Hunting_Simulation)
 **Artificial Intelligence | 2019**
 
