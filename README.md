@@ -13,6 +13,15 @@ State-of-the-art RAG implementation featuring hybrid search (vector + BM25), mul
 - **Key Concepts**: RAG, Hybrid Search, Vector Embeddings, Semantic Chunking, Reranking
 - **Performance**: Sub-second retrieval, 0.7+ relevance scores, conversational memory support
 
+### 👁️ [Computer Vision Feature Detection](./Computer_Vision_Feature_Detection)
+**Computer Vision | 2020**
+
+Python implementation of scale and rotation invariant feature point detection inspired by SIFT, along with correlation-based image matching algorithms. Features multi-scale analysis, non-maxima suppression in scale-space, and orientation assignment using gradient histograms.
+
+- **Technologies**: Python (NumPy, OpenCV, Matplotlib)
+- **Key Concepts**: SIFT-inspired Features, Scale-Space, DoG, Keypoint Detection, Template Matching
+- **Performance**: 8000+ keypoints detected, >0.9 correlation scores for matching
+
 ### 🍄 [Bayesian Networks and ML Mushroom Classifier](./Bayesian_ML_MushroomClassifier)
 **Knowledge Representation | 2020**
 
