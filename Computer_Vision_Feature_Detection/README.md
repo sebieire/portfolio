@@ -87,7 +87,7 @@ The implementation creates a pyramid of Gaussian-smoothed images with exponentia
 
 ## Author
 
-**Sebastian Scheibe**
+[sebieire](https://github.com/sebieire/)
 
 ## License
 
