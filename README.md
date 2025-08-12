@@ -13,6 +13,15 @@ State-of-the-art RAG implementation featuring hybrid search (vector + BM25), mul
 - **Key Concepts**: RAG, Hybrid Search, Vector Embeddings, Semantic Chunking, Reranking
 - **Performance**: Sub-second retrieval, 0.7+ relevance scores, conversational memory support
 
+### 📊 [Dublin Bus GPS Analysis with Apache Spark](./Dublin_Bus_GPS_Analysis_Spark)
+**Big Data Analytics | 2021**
+
+Comprehensive big data analytics project analyzing 40+ million GPS measurements from Dublin buses using Apache Spark Core and Spark SQL. Features distributed processing of 3GB+ dataset to extract insights on delays, congestion patterns, and geographic traffic hotspots.
+
+- **Technologies**: Python (PySpark, Apache Spark Core/SQL)
+- **Key Concepts**: Distributed Computing, RDD Operations, DataFrame APIs, Geographic Analysis
+- **Performance**: Processes 744 hourly files efficiently, identifies peak congestion with 45% accuracy
+
 ### 👁️ [Computer Vision Feature Detection](./Computer_Vision_Feature_Detection)
 **Computer Vision | 2020**
 

@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Data files
+*.csv
+*.txt
+*.data
+*.log
+
+# Assignment specific
+gitignore/
+*.pdf
+*student*
+*R00183905*
+
+# Spark
+spark-warehouse/
+metastore_db/
+derby.log
+
+# MacOS
+.DS_Store
+
+# Results
+results/
+output/
+FileStore/
