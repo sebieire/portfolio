@@ -1,8 +1,17 @@
-# Python Portfolio
+# Code Portfolio
 
 A collection of Python projects demonstrating various algorithms, optimization techniques, and problem-solving approaches.
 
 ## Projects
+
+### 🚀 [RAG AI System](./RAG_AI_System)
+**Retrieval-Augmented Generation | 2025**
+
+State-of-the-art RAG implementation featuring hybrid search (vector + BM25), multi-query expansion, HyDE, and advanced reranking with Cohere. Includes production-ready FastAPI backend and Streamlit UI for document ingestion and intelligent querying.
+
+- **Technologies**: Python (LangChain, OpenAI, ChromaDB, FastAPI, Streamlit)
+- **Key Concepts**: RAG, Hybrid Search, Vector Embeddings, Semantic Chunking, Reranking
+- **Performance**: Sub-second retrieval, 0.7+ relevance scores, conversational memory support
 
 ### 🍄 [Bayesian Networks and ML Mushroom Classifier](./Bayesian_ML_MushroomClassifier)
 **Knowledge Representation | 2020**

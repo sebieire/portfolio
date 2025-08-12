@@ -1,0 +1,58 @@
+# ------------------------
+# updated from scratch @2025-08 @sebieire
+# ------------------------
+
+# core RAG dependencies
+langchain==0.3.14
+langchain-community==0.3.14
+langchain-openai==0.2.14
+langchain-cohere==0.3.3
+
+# vector database
+chromadb==0.5.23
+qdrant-client==1.12.1
+
+# embeddings & ML
+sentence-transformers==3.3.1
+openai==1.58.1
+cohere==5.13.3
+tiktoken==0.8.0
+
+# document processing
+pypdf==5.1.0
+python-docx==1.1.2
+markdown==3.7
+beautifulsoup4==4.12.3
+unstructured[pdf]==0.16.11
+
+# data processing
+pandas==2.2.3
+numpy<2.0,>=1.26  # !issues! --> compatible with all dependencies
+pydantic==2.10.4
+pydantic-settings==2.7.0
+
+# additional dependencies for hybrid search
+rank-bm25==0.2.2
+docx2txt==0.8
+
+# utilities (updated)
+python-dotenv==1.0.1
+rich==13.9.4
+tqdm==4.67.1
+httpx==0.28.1
+
+# ------------------------
+# web & UI stuff
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+streamlit==1.41.1
+
+# ------------------------
+# evaluation & testing
+ragas==0.2.6
+pytest==8.3.4
+pytest-asyncio==0.24.0
+
+# monitoring
+loguru==0.7.3
+
