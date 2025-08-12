@@ -7,11 +7,20 @@ A collection of Python projects demonstrating various algorithms, optimization t
 ### 🚀 [RAG AI System](./RAG_AI_System)
 **Retrieval-Augmented Generation | 2025**
 
-State-of-the-art RAG implementation featuring hybrid search (vector + BM25), multi-query expansion, HyDE, and advanced reranking with Cohere. Includes production-ready FastAPI backend and Streamlit UI for document ingestion and intelligent querying.
+RAG implementation featuring hybrid search (vector + BM25), multi-query expansion, HyDE, and advanced reranking with Cohere. Includes production-ready FastAPI backend and Streamlit UI for document ingestion and intelligent querying.
 
 - **Technologies**: Python (LangChain, OpenAI, ChromaDB, FastAPI, Streamlit)
 - **Key Concepts**: RAG, Hybrid Search, Vector Embeddings, Semantic Chunking, Reranking
 - **Performance**: Sub-second retrieval, 0.7+ relevance scores, conversational memory support
+
+### 🕸️ [Shadow DOM Web Scraper](./Shadow_DOM_Scraper)
+**Web Scraping | 2023**
+
+Shadow DOM web scraping tool capable of extracting content from modern web applications using. Features recursive DOM traversal, shadow host detection, and comparison modes to handle encapsulated web components that traditional scrapers cannot access.
+
+- **Technologies**: Python (Selenium WebDriver, BeautifulSoup, Chrome DevTools Protocol)
+- **Key Concepts**: Shadow DOM, Web Components, Browser Automation, Recursive DOM Traversal
+- **Performance**: Extracts hidden content from SPAs, handles closed shadow roots, supports headless mode
 
 ### 📊 [Dublin Bus GPS Analysis with Apache Spark](./Dublin_Bus_GPS_Analysis_Spark)
 **Big Data Analytics | 2021**
